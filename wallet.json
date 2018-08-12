@@ -1,7 +1,6 @@
 {
     "TOKEN_NAME" : "LeaxCoin",
-    "TOKEN_SYM" : "LEAX",
-    "TOKEN_ADDRESS":"0x3bCFE4786CE5669FE06282eBf11AfE3d0F606CdA",
+    "TOKEN_SYM" : "LEAX",    
     "ETHER_SYM" : "ETH",
     "LOGO_NAMESPACE": "assets/image/logo-token-namespace.png",
     "LOGO_VERTICAL": "assets/image/logo-token-vertical.png",
