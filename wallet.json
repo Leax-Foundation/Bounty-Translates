@@ -5,8 +5,7 @@
     "LOGO_NAMESPACE": "assets/image/logo-token-namespace.png",
     "LOGO_VERTICAL": "assets/image/logo-token-vertical.png",
     "LOGO_ROUND": "assets/image/tkn-round.png",
-    "LOGO_TOKEN": "assets/image/token-coin.png",
-  
+    "LOGO_TOKEN": "assets/image/token-coin.png",  
     "WALLET" : {
       "version": "Wallet v0.3.2",
       "dashboard": "Dashboard",
