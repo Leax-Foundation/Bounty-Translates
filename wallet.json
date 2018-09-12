@@ -1,16 +1,13 @@
 {
   "TOKEN_NAME" : "LeaxCoin",
   "TOKEN_SYM" : "LEAX",
-  "ETHER_SYM" : "ETH",
-  "LOGO_NAMESPACE": "assets/image/logo-token-namespace.png",
-  "LOGO_VERTICAL": "assets/image/logo-token-vertical.png",
-  "LOGO_ROUND": "assets/image/tkn-round.png",
-  "LOGO_TOKEN": "assets/image/token-coin.png",
 
   "WALLET" : {
     "version": "Wallet v0.4.1",
     "dashboard": "Dashboard",
     "buy": "Buy",
+    "searchFile": "Search File",
+    "uploadContract": "Upload Contract",
     "sendOrReceive": "Send / Receive",
     "history": "History",
     "backup": "Backup",
@@ -50,6 +47,8 @@
     "toAddress":"To address",
     "noTransaction":"No transactions",
     "seeAllTransactoin":"You will see all the transactions in your wallet here",
+    "noUploads": "No files uploaded yet",
+    "seeAllUploads":"You will see all the files uploaded in your account here",
     "price":"Price",
     "minimumDeposit":"Minimum deposit",
     "showContract":"Show Contract Address",
@@ -108,7 +107,9 @@
     "toBuyEth": "TO BUY ETH USING OTHER CRYPTOCURRENCIES",
     "titleInfoIOS": "It seems like you're using an Iphone or an Ipad",
     "infoIOS": "The new version of this device is coming up.",
-    "pleaseWaiting": " Please use the actual website on a laptop or computer."
+    "pleaseWaiting": " Please use the actual website on a laptop or computer.",
+    "registerProperty": "Register Property",
+    "comingSoon": "Coming soon you you can register your property here."
   },
 
   "TUTORIAL":{
